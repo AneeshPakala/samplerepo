@@ -1,3 +1,4 @@
+# to find a perfect no
 def perfect(n)
   sum=0
   for i in 1...n
